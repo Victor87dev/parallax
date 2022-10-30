@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;1,300;1,400&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap');
+
+body, html{
+    height: 100%;
+    margin: 0;
+    font-family: 'roboto, Condensed', sans-serif;
+    line-height: 180%;
+    color: #444;
+    text-align: center;
+
+}
+
+.foto1{
+    background-image: url(../img/img9.jpg);
+    min-height: 100%;
+}
+
+.foto2{
+    background-image: url(../img/img4.jpg);
+    min-height: 60%;
+}
