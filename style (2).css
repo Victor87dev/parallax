@@ -51,3 +51,33 @@ body, html{
     font-size: 450%;
     top: 57%;
 }
+
+
+.letreiro3{
+    color: #d1345b;
+    font-size: 350%;
+    top: 65%;
+}
+
+.letreiro4{
+    color: #fff;
+    font-size: 250%;
+    top: 45%;
+}
+
+.letreiro, .letreiro2, .letreiro3, .letreiro4{
+   position:absolute;
+   width: 100%;
+   text-transform:uppercase ;/*deixa a font maiúscula*/
+   letter-spacing: 8px;/*espaço entre as letras*/
+   text-shadow: 0 0 10px #000;/*sombreamento*/
+}
+
+section{
+    padding: 50px 80px;
+}
+
+.dark{
+    background-color: #444;
+    color: #fff;
+}
